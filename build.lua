@@ -1,3 +1,3 @@
 module = "l3build-glob-issue"
 
-typesetfiles = { "examples/*.tex"}
+typesetfiles = { "*.dtx", "examples/*.tex"}
