@@ -1,6 +1,6 @@
 # l3buld-glob-issue
 
-I'm having an issue where typesetfiles in a subdirectory get compiled, but then moved to a strangely named file in the current directory.
+I'm [having an issue](https://github.com/latex3/l3build/issues/462) where typesetfiles in a subdirectory get compiled, but then moved to a strangely named file in the current directory.
 This repository demonstrates my issue.
 
 ```
